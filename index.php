@@ -6,7 +6,7 @@ spenibus.net
 *******************************************************************************/
 
 
-error_reporting(~0);
+error_reporting(0);
 mb_internal_encoding('utf-8');
 
 $CFG_TIME = time();
